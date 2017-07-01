@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 187217817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5419bbb81867bad1140b2a5ea5ae105d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10aa2edf91f4b15a0565b2881ad7d2bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 717e215bb1b29fc4abcb329fb92b5f67, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Demo2/Cylinder.prefab
+- Assets/Demo2/red.mat
+Dependencies: []
