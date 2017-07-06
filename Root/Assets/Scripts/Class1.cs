@@ -4,7 +4,6 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine;
 
-[Share]
 public class Class1 : MonoBehaviour {
     public float rotateSpeed;
     private float moveSpeed;
